@@ -1,2 +1,2 @@
-# CycloServer DLLS
-> This is for downloading and updating the dlls for in the launcher.
+# Cyclo-X DLLS
+> This is used for most of the dlls in the server.
